@@ -1,4 +1,4 @@
-![Profile Picture](image_url)
+![Profile Picture](https://github.com/Shawaiz304/26K-1031/blob/main/me.jpg?raw=true)
 
 # Mohammad Shawaiz
 
